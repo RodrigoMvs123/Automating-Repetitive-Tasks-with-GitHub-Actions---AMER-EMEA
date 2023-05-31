@@ -1,1 +1,11 @@
+name: Display hello, world
+on: [workflow_dispatch] 
+
+
+jobs:
+       display-greeting: 
+              runs-on: ubuntu latest
+              steps:
+name: run-echo
+run: echo “Hello, world” 
 
