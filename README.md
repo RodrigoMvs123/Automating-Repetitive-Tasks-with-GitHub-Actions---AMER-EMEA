@@ -2,6 +2,10 @@
 
 https://www.youtube.com/watch?v=O6lr-LKhEwI
 
+https://github.com/RodrigoMvs123/Automating-Repetitive-Tasks-with-GitHub-Actions---AMER-EMEA/blob/main/README.md?plain=1
+
+
+
 Actions Tab.
 
 Yml files.
