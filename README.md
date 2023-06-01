@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=O6lr-LKhEwI
 
 https://github.com/RodrigoMvs123/Automating-Repetitive-Tasks-with-GitHub-Actions---AMER-EMEA/blob/main/README.md?plain=1
 
-
+https://github.com/RodrigoMvs123/Automating-Repetitive-Tasks-with-GitHub-Actions---AMER-EMEA/blame/main/README.md
 
 Actions Tab.
 
